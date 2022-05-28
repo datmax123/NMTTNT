@@ -1,1 +1,2 @@
-# Mô phỏng thuật toán A* và BFS dựa trên 8-Puzzle ứng với 8 số
+# 8-puzzle-search-implementation
+this a python BFS , A* and RBFS implementation of 8 puzzle 
